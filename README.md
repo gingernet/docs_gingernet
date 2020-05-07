@@ -2,6 +2,8 @@
 
 ### 一.抵押车项目接口文档
 
+https://github.com/gingernet/docs_gingernet/blob/master/mortgage.md
+
 ### 二.问我学院接口文档
 
 ### 三.知鱼财经接口文档
